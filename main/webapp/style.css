@@ -1,0 +1,48 @@
+body{background-color: 	white;}
+table {
+
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+    margin-top:15%; 
+    margin-bottom:15%;
+    border-collapse:collapse;
+    text-align:center;
+    background-color:white;
+    color: black;
+    font-family: "Courier New";
+}
+
+.division{
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+    border-collapse:collapse;
+    text-align:center;
+    background-color:white;
+    color: black;
+    font-family: "Courier New";
+}
+
+.bodyText{
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+    border-collapse:collapse;
+    text-align:justify;
+    background-color:white;
+    color: black;
+    font-family: "Courier New";
+}
+
+table,th, td {
+    border: 1px solid gray;
+    text-align:center;
+}
+
+th, td {
+    height: 24px;
+    padding:4px;
+    vertical-align:middle;
+    font-family: "Courier New";
+}
